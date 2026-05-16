@@ -18,6 +18,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0181-employees-earning-more-than-their-managers](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0184-department-highest-salary) |
 ## Array
 |  |
 | ------- |
