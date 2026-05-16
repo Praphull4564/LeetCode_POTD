@@ -1,0 +1,1 @@
+select email as Email from (select email,count(*) as c from Person group by email)t where c>1
