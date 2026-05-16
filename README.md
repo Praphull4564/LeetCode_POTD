@@ -16,6 +16,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0178-rank-scores](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0182-duplicate-emails) |
 ## Array
 |  |
 | ------- |
