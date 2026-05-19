@@ -26,10 +26,12 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1306-jump-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1345-jump-game-iv) |
+| [2540-minimum-common-value](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2540-minimum-common-value](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2540-minimum-common-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -43,6 +45,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0005-longest-palindromic-substring) |
+| [2540-minimum-common-value](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -55,4 +58,5 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [1345-jump-game-iv](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1345-jump-game-iv) |
+| [2540-minimum-common-value](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
