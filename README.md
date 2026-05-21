@@ -28,6 +28,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [1345-jump-game-iv](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1345-jump-game-iv) |
 | [2540-minimum-common-value](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0005-longest-palindromic-substring) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,8 +63,13 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [1345-jump-game-iv](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1345-jump-game-iv) |
 | [2540-minimum-common-value](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
