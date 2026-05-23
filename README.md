@@ -27,6 +27,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1306-jump-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1345-jump-game-iv) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2540-minimum-common-value](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
