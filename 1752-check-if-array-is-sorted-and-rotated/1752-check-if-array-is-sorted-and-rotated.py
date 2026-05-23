@@ -8,6 +8,4 @@ class Solution:
         sn=''
         for i in nums:
             sn+=str(i)+"#"
-
-        print(n,sn)
         return sn in n
