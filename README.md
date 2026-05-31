@@ -29,6 +29,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [1340-jump-game-v](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1345-jump-game-iv) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2126-destroying-asteroids](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2126-destroying-asteroids) |
 | [2540-minimum-common-value](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -91,6 +92,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [1340-jump-game-v](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1340-jump-game-v) |
+| [2126-destroying-asteroids](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2126-destroying-asteroids) |
 ## Math
 |  |
 | ------- |
@@ -103,4 +105,8 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3161-block-placement-queries) |
+## Greedy
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
