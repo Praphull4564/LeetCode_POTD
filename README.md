@@ -20,6 +20,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0183-customers-who-never-order](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0185-department-top-three-salaries) |
+| [0511-game-play-analysis-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0511-game-play-analysis-i) |
 ## Array
 |  |
 | ------- |
