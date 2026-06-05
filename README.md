@@ -20,6 +20,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0183-customers-who-never-order](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0185-department-top-three-salaries) |
+| [0197-rising-temperature](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0586-customer-placing-the-largest-number-of-orders) |
