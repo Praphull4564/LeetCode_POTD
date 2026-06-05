@@ -29,6 +29,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0596-classes-with-at-least-5-students](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0596-classes-with-at-least-5-students) |
 | [1068-product-sales-analysis-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1148-article-views-i) |
+| [1280-students-and-examinations](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1683-invalid-tweets) |
