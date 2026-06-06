@@ -31,6 +31,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0620-not-boring-movies](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1075-project-employees-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1193-monthly-transactions-i) |
