@@ -31,6 +31,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0610-triangle-judgement](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1070-product-sales-analysis-iii) |
