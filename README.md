@@ -115,6 +115,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0005-longest-palindromic-substring) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2540-minimum-common-value) |
@@ -207,6 +208,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Linked List
 |  |
 | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
