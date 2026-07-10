@@ -156,6 +156,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0322-coin-change) |
 | [1301-number-of-paths-with-max-score](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1340-jump-game-v) |
@@ -200,6 +201,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0070-climbing-stairs) |
 | [1840-maximum-building-height](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -303,4 +305,8 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3620-network-recovery-pathways) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
