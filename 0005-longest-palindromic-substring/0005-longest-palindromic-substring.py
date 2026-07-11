@@ -27,6 +27,7 @@ class Solution:
             if i!='#':
                 res+=i
         return res
+        
             
 
 
