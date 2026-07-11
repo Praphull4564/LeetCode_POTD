@@ -72,6 +72,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0198-house-robber](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0746-min-cost-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1301-number-of-paths-with-max-score) |
@@ -158,6 +159,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1137-n-th-tribonacci-number) |
