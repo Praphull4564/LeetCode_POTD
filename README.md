@@ -73,6 +73,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0033-search-in-rotated-sorted-array](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0033-search-in-rotated-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0120-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0322-coin-change) |
@@ -165,6 +166,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0063-unique-paths-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0322-coin-change) |
 | [0740-delete-and-earn](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0740-delete-and-earn) |
