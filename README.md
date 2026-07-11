@@ -79,6 +79,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0322-coin-change](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0322-coin-change) |
 | [0740-delete-and-earn](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0931-minimum-falling-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1340-jump-game-v) |
@@ -171,6 +172,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0322-coin-change](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0322-coin-change) |
 | [0740-delete-and-earn](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1340-jump-game-v) |
@@ -309,6 +311,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0931-minimum-falling-path-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
