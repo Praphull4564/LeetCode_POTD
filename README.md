@@ -84,6 +84,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0740-delete-and-earn](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0931-minimum-falling-path-sum) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1301-number-of-paths-with-max-score](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1340-jump-game-v) |
@@ -191,6 +192,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0746-min-cost-climbing-stairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1137-n-th-tribonacci-number) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1301-number-of-paths-with-max-score](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1340-jump-game-v) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -203,6 +205,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0139-word-break](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0139-word-break) |
 | [0740-delete-and-earn](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0740-delete-and-earn) |
 | [1189-maximum-number-of-balloons](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1189-maximum-number-of-balloons) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1345-jump-game-iv](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2540-minimum-common-value) |
