@@ -79,6 +79,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0198-house-robber](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0322-coin-change) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0931-minimum-falling-path-sum) |
@@ -182,6 +183,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0221-maximal-square](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0516-longest-palindromic-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0746-min-cost-climbing-stairs) |
@@ -246,10 +248,12 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3161-block-placement-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3161-block-placement-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3161-block-placement-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
