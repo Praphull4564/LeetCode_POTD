@@ -83,6 +83,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0354-russian-doll-envelopes](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0931-minimum-falling-path-sum) |
@@ -198,6 +199,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0646-maximum-length-of-pair-chain](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0931-minimum-falling-path-sum) |
@@ -282,6 +284,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0646-maximum-length-of-pair-chain) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1833-maximum-ice-cream-bars](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
