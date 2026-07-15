@@ -79,6 +79,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0198-house-robber](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0322-coin-change) |
+| [0354-russian-doll-envelopes](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0740-delete-and-earn) |
@@ -118,6 +119,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0354-russian-doll-envelopes](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0354-russian-doll-envelopes) |
 | [2540-minimum-common-value](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3161-block-placement-queries) |
@@ -184,6 +186,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0198-house-robber](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0322-coin-change) |
+| [0354-russian-doll-envelopes](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0354-russian-doll-envelopes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -229,6 +232,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Sorting
 |  |
 | ------- |
+| [0354-russian-doll-envelopes](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0646-maximum-length-of-pair-chain) |
 | [1340-jump-game-v](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1833-maximum-ice-cream-bars) |
