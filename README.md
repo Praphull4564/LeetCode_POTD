@@ -94,6 +94,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1840-maximum-building-height) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2126-destroying-asteroids](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -120,6 +121,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0033-search-in-rotated-sorted-array](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0354-russian-doll-envelopes) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2540-minimum-common-value](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3161-block-placement-queries) |
@@ -260,6 +262,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [3161-block-placement-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
