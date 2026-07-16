@@ -170,6 +170,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0072-edit-distance](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0139-word-break) |
+| [0383-ransom-note](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0383-ransom-note) |
 | [0516-longest-palindromic-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1143-longest-common-subsequence) |
@@ -230,6 +231,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0139-word-break) |
+| [0383-ransom-note](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0383-ransom-note) |
 | [0740-delete-and-earn](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0740-delete-and-earn) |
 | [1189-maximum-number-of-balloons](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1189-maximum-number-of-balloons) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -340,6 +342,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
