@@ -115,6 +115,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [3093-longest-common-suffix-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3620-network-recovery-pathways) |
@@ -135,6 +136,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [2540-minimum-common-value](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3161-block-placement-queries) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -244,6 +246,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
@@ -280,6 +283,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [1137-n-th-tribonacci-number](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1137-n-th-tribonacci-number) |
 | [1840-maximum-building-height](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -320,6 +324,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
@@ -350,6 +355,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0383-ransom-note](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1833-maximum-ice-cream-bars) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -405,9 +411,11 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
