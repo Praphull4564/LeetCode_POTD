@@ -94,6 +94,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0931-minimum-falling-path-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1035-uncrossed-lines) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1260-shift-2d-grid](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1340-jump-game-v) |
@@ -332,6 +333,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3614-process-string-with-special-operations-ii) |
@@ -388,6 +390,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0064-minimum-path-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0931-minimum-falling-path-sum) |
+| [1260-shift-2d-grid](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
