@@ -5,12 +5,13 @@ class Solution:
             if i.isalpha() or i.isdigit():
                 x=x+(i.lower())
 
-        n=len(x)//2
+        i=0
+        j=len(x)-1
         
-        for i in range(n):
-            if x[i]==x[-(i+1)]:
-                continue
-            else:
+        while i<j:
+            if x[i]!=x[j]:
                 return False
-        
+            else:
+                i+=1
+                j-=1
         return True
