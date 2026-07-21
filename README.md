@@ -161,6 +161,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0125-valid-palindrome) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -175,6 +176,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0005-longest-palindromic-substring](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0139-word-break) |
 | [0383-ransom-note](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0383-ransom-note) |
 | [0516-longest-palindromic-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0516-longest-palindromic-subsequence) |
