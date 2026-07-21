@@ -80,6 +80,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0221-maximal-square) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0322-coin-change) |
@@ -133,6 +134,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0004-median-of-two-sorted-arrays](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0209-minimum-size-subarray-sum) |
 | [0354-russian-doll-envelopes](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0354-russian-doll-envelopes) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2540-minimum-common-value](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2540-minimum-common-value) |
@@ -330,6 +332,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0209-minimum-size-subarray-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3312-sorted-gcd-pair-queries) |
@@ -378,6 +381,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Union-Find
 |  |
