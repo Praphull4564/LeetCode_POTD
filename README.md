@@ -176,6 +176,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0115-distinct-subsequences) |
@@ -243,6 +244,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0139-word-break) |
 | [0383-ransom-note](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0383-ransom-note) |
 | [0740-delete-and-earn](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0740-delete-and-earn) |
@@ -381,6 +383,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Union-Find
