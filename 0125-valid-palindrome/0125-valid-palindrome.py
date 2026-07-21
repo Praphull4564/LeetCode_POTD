@@ -1,12 +1,12 @@
+from functools import lru_cache
 class Solution:
-    def isPalindrome(self, s: str) -> bool:
-        
 
+    @lru_cache
+    def isPalindrome(self, s: str) -> bool:
         i=0
         j=len(s)-1
 
         while i<j:
-
             if not s[i].isalnum():
                 i+=1
                 continue
