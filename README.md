@@ -296,6 +296,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0279-perfect-squares) |
@@ -367,6 +368,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0141-linked-list-cycle) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -447,4 +449,8 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [3312-sorted-gcd-pair-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
