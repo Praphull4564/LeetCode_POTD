@@ -73,6 +73,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0120-triangle) |
@@ -181,6 +182,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0115-distinct-subsequences) |
@@ -251,6 +253,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0141-linked-list-cycle) |
 | [0383-ransom-note](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0383-ransom-note) |
@@ -282,6 +285,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0049-group-anagrams) |
 | [0354-russian-doll-envelopes](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0646-maximum-length-of-pair-chain) |
 | [1340-jump-game-v](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1340-jump-game-v) |
