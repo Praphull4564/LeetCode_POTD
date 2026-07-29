@@ -235,6 +235,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0354-russian-doll-envelopes](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0392-is-subsequence) |
+| [0458-poor-pigs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0458-poor-pigs) |
 | [0516-longest-palindromic-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0646-maximum-length-of-pair-chain) |
@@ -315,6 +316,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0062-unique-paths](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0279-perfect-squares) |
+| [0458-poor-pigs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0458-poor-pigs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1137-n-th-tribonacci-number) |
 | [1840-maximum-building-height](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1840-maximum-building-height) |
@@ -465,6 +467,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0062-unique-paths) |
+| [0458-poor-pigs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0458-poor-pigs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Number Theory
