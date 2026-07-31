@@ -3,23 +3,19 @@ class Solution:
         d={}
         for i in word:
             if i in d:
-                d[i][1]+=1
+                d[i]+=1
             else:
-                d[i]=[i,1]
-        v=list(d.values())
-        v.sort(key = lambda x:x[1],reverse=True)
-        d={}
-        for i in v:
-            if len(d)<8:
-                d[i[0]]=1
-            elif len(d)<16:
-                d[i[0]]=2
-            elif len(d)<24:
-                d[i[0]]=3
-            else:
-                d[i[0]]=4
+                d[i]=1
+        d=sorted(list(d.values()),reverse=True)
         res=0
-        for i in word:
-            res+=d[i]
+        for i in range(len(d)):
+            if i<8:
+                res=res+d[i]*1
+            elif i<16:
+                res=res+d[i]*2
+            elif i<24:
+                res=res+d[i]*3
+            else:
+                res=res+d[i]*4
         return res
-        
+
