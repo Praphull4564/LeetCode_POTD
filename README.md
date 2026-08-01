@@ -88,6 +88,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0322-coin-change](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0377-combination-sum-iv) |
+| [0486-predict-the-winner](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0646-maximum-length-of-pair-chain) |
@@ -238,6 +239,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0377-combination-sum-iv](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0392-is-subsequence) |
 | [0458-poor-pigs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0458-poor-pigs) |
+| [0486-predict-the-winner](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0646-maximum-length-of-pair-chain) |
@@ -321,6 +323,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0070-climbing-stairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0279-perfect-squares) |
 | [0458-poor-pigs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0458-poor-pigs) |
+| [0486-predict-the-winner](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1137-n-th-tribonacci-number) |
 | [1840-maximum-building-height](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1840-maximum-building-height) |
@@ -490,6 +493,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | ------- |
 | [0002-add-two-numbers](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0486-predict-the-winner) |
 ## Binary Tree
 |  |
 | ------- |
@@ -498,4 +502,8 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0077-combinations) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
