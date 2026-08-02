@@ -156,6 +156,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0547-number-of-provinces) |
 | [1306-jump-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1306-jump-game-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -165,6 +166,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | ------- |
 | [0279-perfect-squares](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0547-number-of-provinces) |
 | [1306-jump-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1345-jump-game-iv) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -441,6 +443,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0547-number-of-provinces) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -461,6 +464,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0547-number-of-provinces) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
