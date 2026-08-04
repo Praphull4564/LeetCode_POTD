@@ -179,6 +179,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0005-longest-palindromic-substring](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0148-sort-list) |
 | [0392-is-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0392-is-subsequence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -308,6 +309,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0148-sort-list) |
 | [0354-russian-doll-envelopes](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0354-russian-doll-envelopes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0646-maximum-length-of-pair-chain) |
@@ -415,6 +417,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0002-add-two-numbers](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -435,10 +438,12 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
 |  |
