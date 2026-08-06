@@ -162,6 +162,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0802-find-eventual-safe-states](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0841-keys-and-rooms) |
 | [1306-jump-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1306-jump-game-iii) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -176,6 +177,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0841-keys-and-rooms](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0841-keys-and-rooms) |
 | [1306-jump-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1345-jump-game-iv) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3310-remove-methods-from-project) |
@@ -416,6 +418,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Tree
 |  |
 | ------- |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
