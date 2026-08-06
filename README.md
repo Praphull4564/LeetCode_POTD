@@ -159,6 +159,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0802-find-eventual-safe-states) |
 | [1306-jump-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1306-jump-game-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3310-remove-methods-from-project) |
@@ -170,6 +171,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0279-perfect-squares](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0802-find-eventual-safe-states) |
 | [1306-jump-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1345-jump-game-iv) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -480,12 +482,14 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0802-find-eventual-safe-states) |
 | [3310-remove-methods-from-project](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0802-find-eventual-safe-states) |
 | [3620-network-recovery-pathways](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -539,4 +543,12 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1406-stone-game-iii) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
