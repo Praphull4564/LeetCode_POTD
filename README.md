@@ -161,6 +161,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0547-number-of-provinces) |
+| [0797-all-paths-from-source-to-target](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0841-keys-and-rooms) |
 | [1306-jump-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1306-jump-game-iii) |
@@ -175,6 +176,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0279-perfect-squares](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0547-number-of-provinces) |
+| [0797-all-paths-from-source-to-target](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0841-keys-and-rooms) |
 | [1306-jump-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1306-jump-game-iii) |
@@ -493,6 +495,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0547-number-of-provinces) |
+| [0797-all-paths-from-source-to-target](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0841-keys-and-rooms) |
 | [3310-remove-methods-from-project](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3310-remove-methods-from-project) |
@@ -541,6 +544,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0077-combinations) |
+| [0797-all-paths-from-source-to-target](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0797-all-paths-from-source-to-target) |
 ## Game Theory
 |  |
 | ------- |
@@ -563,4 +567,8 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0802-find-eventual-safe-states) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
