@@ -123,6 +123,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [2574-left-and-right-sum-differences](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3161-block-placement-queries) |
@@ -297,6 +298,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -474,6 +476,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0209-minimum-size-subarray-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Union-Find
 |  |
 | ------- |
