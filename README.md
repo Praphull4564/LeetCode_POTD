@@ -116,6 +116,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -363,6 +364,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [1406-stone-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3312-sorted-gcd-pair-queries) |
@@ -397,6 +399,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1833-maximum-ice-cream-bars](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2029-stone-game-ix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -458,6 +461,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0383-ransom-note](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -564,16 +568,19 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0877-stone-game](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2029-stone-game-ix) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
@@ -586,4 +593,8 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0797-all-paths-from-source-to-target) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
