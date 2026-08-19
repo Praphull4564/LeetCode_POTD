@@ -106,6 +106,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [1306-jump-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1345-jump-game-iv) |
+| [1386-cinema-seat-allocation](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1732-find-the-highest-altitude) |
@@ -300,6 +301,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1345-jump-game-iv](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1386-cinema-seat-allocation) |
 | [2540-minimum-common-value](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -316,6 +318,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -399,6 +402,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1386-cinema-seat-allocation](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2029-stone-game-ix) |
