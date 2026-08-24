@@ -114,6 +114,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [1833-maximum-ice-cream-bars](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1872-stone-game-viii) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -285,6 +286,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1340-jump-game-v](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1872-stone-game-viii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3620-network-recovery-pathways) |
@@ -369,6 +371,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [1140-stone-game-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -430,6 +433,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [1140-stone-game-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -577,18 +581,21 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0877-stone-game](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2029-stone-game-ix) |
 ## Kosaraju's Algorithm
 |  |
