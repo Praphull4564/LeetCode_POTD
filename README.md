@@ -143,6 +143,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3838-weighted-word-mapping) |
@@ -316,6 +317,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [3312-sorted-gcd-pair-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
