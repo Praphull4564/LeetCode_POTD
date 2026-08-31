@@ -471,6 +471,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0021-merge-two-sorted-lists](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0148-sort-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
