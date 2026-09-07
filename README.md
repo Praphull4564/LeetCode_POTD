@@ -232,6 +232,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0392-is-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0940-distinct-subsequences-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -287,6 +288,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0746-min-cost-climbing-stairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0940-distinct-subsequences-ii) |
 | [1035-uncrossed-lines](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1035-uncrossed-lines) |
 | [1137-n-th-tribonacci-number](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1140-stone-game-ii) |
