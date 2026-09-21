@@ -253,6 +253,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [3093-longest-common-suffix-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3612-process-string-with-special-operations-i) |
@@ -487,6 +488,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [1260-shift-2d-grid](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3838-weighted-word-mapping) |
