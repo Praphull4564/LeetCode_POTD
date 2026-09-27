@@ -245,6 +245,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0940-distinct-subsequences-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -526,6 +527,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Stack
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
 |  |
@@ -680,4 +682,8 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2029-stone-game-ix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
