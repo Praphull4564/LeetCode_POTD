@@ -126,6 +126,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [2126-destroying-asteroids](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2540-minimum-common-value](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -317,6 +318,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -586,6 +588,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0931-minimum-falling-path-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1301-number-of-paths-with-max-score) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -689,4 +692,5 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
