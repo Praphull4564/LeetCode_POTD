@@ -244,6 +244,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0516-longest-palindromic-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0940-distinct-subsequences-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -530,6 +531,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Stack
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -690,6 +692,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
