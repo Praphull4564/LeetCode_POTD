@@ -233,6 +233,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0097-interleaving-string) |
@@ -531,6 +532,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -692,6 +694,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
