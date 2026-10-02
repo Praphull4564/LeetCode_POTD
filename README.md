@@ -234,6 +234,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0003-longest-substring-without-repeating-characters](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0097-interleaving-string) |
@@ -276,6 +277,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0064-minimum-path-sum) |
@@ -650,6 +652,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0077-combinations) |
 | [0797-all-paths-from-source-to-target](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0797-all-paths-from-source-to-target) |
 ## Game Theory
@@ -695,6 +698,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
