@@ -199,6 +199,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0797-all-paths-from-source-to-target) |
@@ -242,6 +243,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0115-distinct-subsequences](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0139-word-break) |
+| [0301-remove-invalid-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0516-longest-palindromic-subsequence) |
@@ -664,6 +666,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | ------- |
 | [0022-generate-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0077-combinations) |
+| [0301-remove-invalid-parentheses](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0797-all-paths-from-source-to-target) |
 ## Game Theory
 |  |
