@@ -134,6 +134,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [2778-sum-of-squares-of-special-elements](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -361,6 +362,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [2540-minimum-common-value](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -463,12 +465,14 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Praphull4564/LeetCode_POTD/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3161-block-placement-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
