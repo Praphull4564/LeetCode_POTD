@@ -286,6 +286,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
