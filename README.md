@@ -559,6 +559,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | ------- |
 | [0002-add-two-numbers](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0021-merge-two-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
