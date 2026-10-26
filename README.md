@@ -153,6 +153,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -204,6 +205,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [3310-remove-methods-from-project](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -221,6 +223,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -616,6 +619,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | ------- |
 | [0547-number-of-provinces](https://github.com/Praphull4564/LeetCode_POTD/tree/master/0547-number-of-provinces) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -635,6 +639,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
