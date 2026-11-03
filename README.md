@@ -161,6 +161,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -468,6 +469,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
