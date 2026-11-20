@@ -139,6 +139,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3093-longest-common-suffix-queries) |
@@ -354,6 +355,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3524-find-x-value-of-array-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -438,6 +440,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [2333-minimum-sum-of-squared-difference](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2747-count-zero-request-servers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
