@@ -177,6 +177,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [3904-smallest-stable-index-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -452,6 +453,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -534,6 +536,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3689-maximum-total-subarray-value-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -654,6 +657,7 @@ Here, I upload my daily solutions to LeetCode problems along with optimized appr
 | [2333-minimum-sum-of-squared-difference](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Praphull4564/LeetCode_POTD/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3620-network-recovery-pathways) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Praphull4564/LeetCode_POTD/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Matrix
 |  |
 | ------- |
